@@ -1,0 +1,164 @@
+Minimal cherry pick for mqtt level store
+Usage with node-forge via streamBuilder
+HELP - security vulnerability detected in dependencies mqtt-packet
+WeChat mini program can't load Plugin when I imported mqtt.js
+[Browser] client on connect handler triggered continuously 
+为什么用 npm下载的库，不支持支付宝小程序连接？
+Handling of multiple subscribe and callbacks
+TypeError: WS is not a constructor when url use 'ws:' in WeChat Mini Program
+server side received QoS 3
+Not able to publish message via event listener function
+The minified file's link in README.md is out of date.
+[ help] How can I use it in the WeChat MINI  APP？
+连接的URL后面必须跟/mqtt是什么原因
+Can the mqtt work from behind a http proxy 
+Multiple mqtt connections will be lost in the weapp?
+can't use {protocolVersion:5} when use connect function
+Best way to handle publishing at high frequency
+"WS is not a constructor" - error after bundling with Webpack
+Small program debugging tools can be connected to the normal, the real machine is not
+Is there any parameter about client-Id, user and password?
+Is there a way of setting websocketSubProtocol 
+Reload certificate of a TLS connection
+No error is emitted on wrong IP
+Duplicate message received when client is resubscribed during offline and then coming online
+How use MQTT.js with weapp
+Question: MQTT node.js is able to work with Node.JS Clustering? 
+How to catch"Not authorized" to prevent program to exit 
+client does not receive messages when multiple messages are sent by broker simultaneously
+failed: Connection closed before receiving a handshake response
+Fix typings please!
+Invalid subscription details causes offline-closed-connect-reconnect loop.
+Subscription with topic object
+Client does not resubscribe after reconnect if clean = false
+The implementation of Wechat Mini Program is out of data
+come across a memory leak problem！
+Help needed: Connecting MQTT to FBNS protocol: Disable clientId
+Retained message is lost after switching to slave
+why the client connected again and agian
+Is it possible to wait until notifying the broker about consuming a message?
+Duplicate messages received - 2.18.8
+MQTT Client exceeded timeout, disconnecting
+Connection goes offline, closed and reconnect the whole time.
+MQTT connection over WSS is not working with Proxy
+WebSocket connection closed before receiving a handshake, cookies related 
+WebSocket connection errors not catched
+BUG: topics are not re-subscribed to after automatic reconnection to broker
+How to subscribe from mqtt to AWS IOT Service
+what is keepalive in client options and what exactly will happen when we set it to '0'
+MQTT.js v3.0.0
+Missing errors during sub and pub
+Is there any re-try interval time setting there?
+Help needed: issue tracker
+mqtt.js + mosquitto on rpi infinite loop
+Support for additional HTTP headers in Websocket connection
+SUBACK 0x80 handling
+can't get granted value when use subscribe in nearby time case [BUG]
+fix: edge case when handlePacket is called after .end()
+Way to correlate subscription with incoming message
+Can this middleware connect activemq with mqtt+ssl?
+Publishing a QOS1 message inside mqttClient.handleMessage() hangs the Node.js process
+Cannot receive puback request while using mqtt-connection lib for setting broker
+angular 6 cannot call the mqtt library
+nodejs to mosquitto raspberry pi  pub sub not work
+I can't connect the server in vuejs 
+TransformUrl function returns a async promise instead of new url string
+transformWsUrl not called when options passed as first param
+How to know when all messages from store have been sent?
+MQTT Client Disconnecting if receive too many messages
+publish looks for message even when stdin is being used
+Timeout on publish
+Terribly slower in subscription mode when comparing with Paho PERFORMANCE
+messageId is not generated correctly, possible BUG
+CLI not working in Windows 10
+pass packet or packet.messageId to publish callback?
+Two instances of client, the one who publish disconnect after every pub
+React Native MQTT via TCP
+Two clients in the same program, sending one message, only one reception.
+Memory leak in mqtt client
+MQTT.js and shared subscriptions
+How to change the domain name of websocket connection?
+Error during WebSocket handshake: Unexpected response code: 404
+React Native: Client doesn't connect and no error is emitted
+Subscribe on QoS 1 message event not triggerring from client
+feat: support weex framework
+What happens to messages published on a channel when there are no subscribers?  Even with QoS 1 and 2.  Is it stored somewhere until there is a new client connected?
+Large Payload issue. offline->close->reconnect infinite loop
+'end' event
+Error: "listener" argument must be a function in Version 2.15.2
+Call message callbacks upon disconnection / no more reconnections
+How to change re-connect strategy to re-connect again with different credentials.
+Doesn't mqtt.js support cordova? I want to use it in app for Android and iOS platform.
+Serial message processing 
+After the net is broken, it is reconnected, but there is no data.
+Started brokers integration tests
+Call to 'connect' just hangs
+client with clean:false does not resubscribe
+wss://url:8084/mqtt in node.js worked but in browser using webpack failed
+Empty password got rejected connection without even try to authenticate with the server
+在微信小程序中如何使用呢？
+Can't figure out how to get JSON to save in the database.
+Reconnect on publishing blank message in browser
+use babel-loader in webpack
+Subscribe too many duplicate data arrive.
+Handling subscription failure 
+Add error when destroying stream to generate close event even when the network connection is down
+correct stop connection on wrong username or password
+end() callback not called if `force` is true and the stream is already closed (eg. after a failed keepalive ping)
+Disabling reconnection I do not know when it was disconnected.
+Upgrade to mocha@4
+Routing Changes Stops Connection
+DUP flag not set when redelivering messages
+Disconnected Client
+qos2 payload
+Multipe clients connecting with same clientID both keep connecting and disconnecting without error
+ReschedulePings can cause a dropped connection to never be realized
+Too many duplicate `subscribe` requests after reconnect
+Cordova: Error On Some Android 
+Why is the client always disconnected from time to time?
+strange network error handling
+subscribe/publish error cannot print
+How can we scale or balance load  on a MQTT client in nodeJs.
+Does mqttjs have a max payload size ?
+travis error?
+Unacceptable protocol version mqtt v3
+Support for mqtt v5 specification
+Missing messages
+BrowserMQTT.js with secure client?
+how to reconnect when mqtt server restart?
+Using MQTT with NativeScript
+The error handler is not invoked when authentication fails.
+Unhandled error event on connection lost with TLS
+Can't connect to Server
+If a packet is published with QOS 2 to Mosca, client does not close
+reconnect documentation
+return code missing on connection error (connack event)
+Improve TypeScript: testing on CI, plus exports
+Max drain listeners..
+mqtt version 2.5.1 throws error when compiling through webpack2. mqtt v2.4.0 is OK
+Webpack 2 - Bundling Error
+websocket efficiency
+React-Native support
+'close' event triggered soon after the 'connect' event gets triggered
+Uncaught Error 'cb is not a function'
+For browser,maximum socket buffer size before throttling
+Added jittered fibonacci back off strategy. fixes #561
+[WIP] Update connect(brokerUrl) parsing
+Change reconnect logic to exponential backoff with random delay
+MQTT bridge
+Unable to connect to RabbitMQ broker using MQTT.js
+Trying to fix saucelabs integration
+Unable to resolve module events from ....
+changing options after client initialization
+Cannot read property 'granted' of undefined
+Integration tests on Travis for all OSS brokers
+move to uws as its a fastest ws implementation?
+on reconnect , new connections start with the old ones
+Cannot work with nativescript
+"Could not determine host" on mqtt.connect() in a WebWorker
+A poor connection can cause a single packet to be sent many time on reconnect. Multiple duplicated subscriptions will kill the AWS IoT connection and will not recover.
+Question about TLS clients
+Client doesn't send queued packets in the correct order (after reconnect).
+WebSockets - authentication error on connect does not emit error event.
+connectTimeout and reconnectPeriod interaction
+maxFirstConnects to avoid reconnection loop
